@@ -1,6 +1,4 @@
 ﻿using RefactorRPN;
-using System.Collections;
-using System.Text;
 
 
 var stack = new Stack<double>();
@@ -12,4 +10,10 @@ while (true)
 {
     calculator.AskForCalculation();
 }
+
+
+
+
+
+
 
